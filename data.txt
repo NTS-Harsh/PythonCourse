@@ -1,0 +1,16 @@
+Name: Harshvardhan Pratap
+Role: Software Developer
+Skills: Python, Django, React, Golang
+Location: India
+
+Quote of the Day:
+"Code is like humor. When you have to explain it, it is bad."
+
+Tasks:
+1. Complete Python File Handling tutorial
+2. Work on Django Healthcare Project
+3. Review React Prior Authorization Component
+Line added using 'with'.
+Line added using 'with'.
+Line added using 'with'.
+Line added using 'with'.

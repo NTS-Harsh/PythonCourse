@@ -1,0 +1,3 @@
+Hello, Harsh!
+Learning file handling.
+Adding more text at the end.
